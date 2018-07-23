@@ -15,4 +15,3 @@ For this pupose the ideal language is thus YAML.
 
 # Specification
 
-TBD.
