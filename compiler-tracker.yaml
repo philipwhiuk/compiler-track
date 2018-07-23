@@ -1,4 +1,5 @@
- --- # Example format
+ --- # An example of a v1.0 compiler-tracker YAML file
+version: 1.0
 compilers:
      - name: sbt
        version: 1.2.3+
